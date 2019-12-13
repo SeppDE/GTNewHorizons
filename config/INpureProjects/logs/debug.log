@@ -9,8 +9,6 @@ Found creative tab: IC2
 Found creative tab: tabBloodMagic
 Found creative tab: misc
 Found creative tab: tools
-Found creative tab: GregTech.GTPP_BLOCKS
-Found creative tab: buildingBlocks
 Found creative tab: Automagy
 Found creative tab: avaritia
 Found creative tab: tab.backpacks
@@ -22,6 +20,7 @@ Found creative tab: BiblioWoodsForestry
 Found creative tab: BiblioWoodsNatura
 Found creative tab: Genetics
 Found creative tab: apiculture
+Found creative tab: buildingBlocks
 Found creative tab: tabBiomesOPlenty
 Found creative tab: BA_TAB
 Found creative tab: Botany
@@ -65,6 +64,7 @@ Found creative tab: natura.trees
 Found creative tab: nodalmechanics.tab
 Found creative tab: tabOpenBlocks
 Found creative tab: OpenComputers
+Found creative tab: tabOpenPeripheralAddons
 Found creative tab: TConstructBlocks
 Found creative tab: core
 Found creative tab: expansion
@@ -101,7 +101,8 @@ Found creative tab: thaumichorizons
 Found creative tab: thaumicMachina
 Found creative tab: ThaumicTinkerer
 Found creative tab: brewing
-Found creative tab: GregTech.GTPP_OTHER_2
+Found creative tab: MiscUtilBOP
+Found creative tab: MiscUtilBlockTab
 Found creative tab: travellersgear
 Found creative tab: twilightForest
 Found creative tab: warptheory.tab
@@ -113,10 +114,6 @@ Found creative tab: ae2wct
 Found creative tab: appliedenergistics2
 Found creative tab: appliedenergistics2.facades
 Found creative tab: avaritiaddons
-Found creative tab: bartworks
-Found creative tab: BioTab
-Found creative tab: GT2C
-Found creative tab: bartworksMetaMaterials
 Found creative tab: Battlegear2
 Found creative tab: Cropspp
 Found creative tab: betterquesting
@@ -156,14 +153,11 @@ Found creative tab: tabHarvestCraft2
 Found creative tab: tabHarvestCraft3
 Found creative tab: tabHarvestCraft
 Found creative tab: tabHarvesttheNether
-Found creative tab: DayNModTools
 Found creative tab: irontank
 Found creative tab: LootGames
 Found creative tab: malisisdoors
-Found creative tab: GregTech.GTPP_MISC
-Found creative tab: GregTech.GTPP_MACHINES
-Found creative tab: GregTech.GTPP_OTHER
-Found creative tab: GregTech.GTPP_TOOLS
+Found creative tab: MiscUtilMachineTab
+Found creative tab: MiscUtilMiscTab
 Found creative tab: openmodularturrets
 Found creative tab: OpenPrinter
 Found creative tab: OpenSecurity
@@ -201,22 +195,22 @@ Found ItemStack minecraft:mob_spawner. 64xtile.mobSpawner@0
 Loading: ThermalExpansion.js
 Loading: Mekanism.js
 Loading: ForgeMicroblock.js
-getRandomMaterial called. Returned: GalaxySpace:ceresblocks
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ForgeMicroblockObject). Params: 1,2,4,257,258,260,513,514,516,769,770,772, GalaxySpace:ceresblocks
+getRandomMaterial called. Returned: GalaxySpace:barnardaCdirt
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ForgeMicroblockObject). Params: 1,2,4,257,258,260,513,514,516,769,770,772, GalaxySpace:barnardaCdirt
 Loading: ExtraUtilities.js
 override called. Params: ExtraUtilities, drum, 0,1
 Regex match found! ExtraUtilities:drum matches ExtraUtilities:drum.
 Found ItemStack ExtraUtilities:drum. 64xtile.extrautils:drum@0
-getRandomMaterial called. Returned: GalaxySpace:ceresblocks_2
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ExtraUtilitiesObject). Params: 1,2,3, GalaxySpace:ceresblocks_2
+getRandomMaterial called. Returned: ExtraUtilities:enderThermicPump
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ExtraUtilitiesObject). Params: 1,2,3, ExtraUtilities:enderThermicPump
 Loading: BuildCraft.js
-getFacadesSize called. Returned: 4354
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.BCObject). Params: 1730
+getFacadesSize called. Returned: 4303
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.BCObject). Params: 1972
 Loading: AppliedEnergistics2.js
 getFacadeItem called. Returned: appliedenergistics2:item.ItemFacade
 getSubTypes called.
-getNumberOfTypes called. Returned: 3265
-override called. Params: appliedenergistics2, item.ItemFacade, 2300
+getNumberOfTypes called. Returned: 3249
+override called. Params: appliedenergistics2, item.ItemFacade, 2033
 Regex match found! appliedenergistics2:item.ItemFacade matches appliedenergistics2:item.ItemFacade.
 Found ItemStack appliedenergistics2:item.ItemFacade. 64xitem.appliedenergistics2.ItemFacade@0
 Loading: Tcon.js
